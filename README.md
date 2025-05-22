@@ -1,3 +1,18 @@
+a single-page cms project build with react and material ui and react-router-dom
+این پروژه یک داشبورد ادمبن spaهستش که با پکیج های mui وreact-router-dom توسعه داده شده و در هاست رایگان سایت vercel دپلوی شده است 
+
+
+
+
+## ویژگی ها
+- رابط کاربری مدرن با Material ul
+- روتینگ کامل با React router
+- طراحی Spa بدون  refrash شدن صفحات
+- ساختار کامپوننت محور وقابل توسعه
+
+
+## مشاهده آنلاین
+(https://spa-cms.vercel.app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
