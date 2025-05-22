@@ -1,0 +1,16 @@
+.datagrid-container{
+    margin: 20px;
+    box-shadow: 0 0  15px  rgba(0, 0, 0, 0.75);
+    border-radius: 45px;
+}
+
+.username-in-datagrid{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.action-in-datagrid{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

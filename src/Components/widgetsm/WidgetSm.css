@@ -1,0 +1,15 @@
+.widgetsm-container{
+ /* width: 30%;    */
+ flex: 1;
+ box-shadow: 0 0 15px -10px rgba(0,0,0,0.75);
+ padding: 20px;
+ /* margin:30px; */
+ border-radius: 15px;
+ height: fit-content;
+
+}
+.widget-description{
+    display: flex;
+    flex-direction: column;
+
+}
