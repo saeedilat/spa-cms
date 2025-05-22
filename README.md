@@ -1,5 +1,5 @@
-a single-page cms project build with react and material ui and react-router-dom
-این پروژه یک داشبورد ادمبن spaهستش که با پکیج های mui وreact-router-dom توسعه داده شده و در هاست رایگان سایت vercel دپلوی شده است 
+## a single-page cms project build with react and material ui and react-router-dom
+## این پروژه یک داشبورد ادمبن spaهستش که با پکیج های mui وreact-router-dom توسعه داده شده و در هاست رایگان سایت vercel دپلوی شده است 
 
 
 
@@ -83,3 +83,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## درباره پروژه 
+این پروژه صرفا برای تمرین و یادگیری و نمایش نمونه کار توسعه داده شده و قابلیت استفاده در پروژه های واقعی را می توان با توسعه بیشتر به آن افزود 
+ضمنا فایل readme هم صرفا جهت گرفتن بازخورد شما در مورد این پروژه بازنویسی شده است
